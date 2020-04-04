@@ -1,1 +1,1 @@
-# Deep-Leaning-AUT2020
+# Deep-Learning-AUT2020
