@@ -5,3 +5,9 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
     -SVM (HoG/LBP/Raw)
     -KNN (HoG/LBP/Raw)
     -ANN (HoG/LBP/Raw)
+  Assignment 2:
+    -AlexNet
+    -ResNet
+    -EfficientNet
+    -Faster-rcnn
+    -SSD
