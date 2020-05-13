@@ -15,16 +15,16 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
     
     
     
-  Assignment 2:
+  Assignment 2: Multi-class Image Classification
   
   
-    -AlexNet
+    -Base and Customized VVG16
     
     
-    -ResNet
+    -Base and Customized ResNet50
     
     
-    -GoogleNet
+    -Base and Customized InceptionV3
     
     
     -Faster-RCNN
@@ -34,7 +34,7 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
 
 
 
-Assignment 3: sdnet2018
+Assignment 3: SDNET2018
 
 
-  -EffiicientNet
+  -Multiclass InceptionV3
