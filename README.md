@@ -15,7 +15,7 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
     
     
     
-  Assignment 2: Multi-class Image Classification and Object Detection for Red Blood Cells
+  Assignment 2: Multi-class Image Classification (Weather) and Object Detection for Red Blood Cells
   
   
     -Base and Customized VVG16
