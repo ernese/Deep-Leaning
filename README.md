@@ -37,4 +37,6 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
 Assignment 3: SDNET2018
 
 
-  -Multiclass InceptionV3
+  -InceptionResNet v2 for multiclass image classification
+  
+  -VGG16 to detect cracked and uncracked images for Bridge Deck, Pavement, and Wall.
