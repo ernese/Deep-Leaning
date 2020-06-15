@@ -39,4 +39,5 @@ Assignment 3: SDNET2018
 
   -InceptionResNet v2 for multiclass image classification
   
+  
   -VGG16 to detect cracked and uncracked images for Bridge Deck, Pavement, and Wall.
