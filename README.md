@@ -40,3 +40,5 @@ Assignment 3 (Group Work): SDNET2018
      
      
      -VGG16 to detect cracked and uncracked images for Bridge Deck, Pavement, and Wall.
+     
+     -GUI for project
