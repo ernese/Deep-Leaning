@@ -33,7 +33,7 @@ Repository for my assignments for 42028 Deep Learning and Convolutional Neural N
      -SSD
 
      
-Assignment 3 (Group Work): SDNET2018
+Assignment 3 (Group Work): SDNET2018 dataset
 
 
      -InceptionResNet v2 for multiclass image classification
